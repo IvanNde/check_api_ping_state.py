@@ -1,5 +1,3 @@
----
-
 # Documentation du Plugin : `check_api_ping_state.py`
 
 ## 1. Objectif
