@@ -126,6 +126,6 @@ Déployez la configuration sur votre collecteur pour appliquer les changements.
     *   Sortie du plugin : `UNKNOWN: API connection error - ReadTimeout(...)`
 
 ---
-Auteur: Ivan 
+Auteur: Ivan Nde
 Version: 1.0
 Date: 03/07/2024
